@@ -1,4 +1,4 @@
-# 東京女子大学 素粒子論 研究室合宿
+# TWCU workshop on particle physics
 
 仮ページ
 
