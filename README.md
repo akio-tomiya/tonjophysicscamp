@@ -1,5 +1,5 @@
 # tonjophysicscamp
-This is a web page for Tonjo Physics group camp
+This is a web page for Tonjo Physics group camp (TWCU workshop on particle physics)
 
 DATE: 2024/11/9-2024/11/14
 
