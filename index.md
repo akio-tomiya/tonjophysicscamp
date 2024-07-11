@@ -1,5 +1,3 @@
-# TWCU workshop on particle physics
-
 ## 目的
 この研究会は、東京女子大学の理論物理学研究室を中心に行う、素粒子理論に関する研究会です。
 
