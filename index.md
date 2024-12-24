@@ -30,7 +30,7 @@
 | 午後3(18:00-21:00)   | 講演      | 懇親会     | 講演      |           |
 -->
 
-調整中
+[詳細はこちら](https://docs.google.com/spreadsheets/d/1kBZYKw_bWtVQqdN9pmTMhHJfazAP14g4W65m74ikgzA/edit?usp=sharing)
 
 詳細なプログラムは決定し次第、掲示します。
 
