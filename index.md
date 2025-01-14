@@ -39,6 +39,7 @@
 - 高田 遼子
 - 中村 由規子
 - 畑 百花
+- 橋本 幸士
 
 ## 参加者
 - TBA
@@ -47,6 +48,9 @@
 
 - [理論物理研究室](https://sites.google.com/lab.twcu.ac.jp/phys-ja/home)
 - [富谷](https://www2.yukawa.kyoto-u.ac.jp/~akio.tomiya/)
+
+## 共催
+京都大学素粒子論研究室
 
 ## 謝辞
 本研究会は、科学研究費補助金学術変革領域研究(A)「学習物理学の創成」(22H05112) からの補助を受けています。
