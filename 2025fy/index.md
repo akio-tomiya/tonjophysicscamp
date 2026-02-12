@@ -27,7 +27,7 @@
 | 午前   (10:00-12:00) | 移動      | 講演       |
 | 午後1 (14:00-15:00)  | 講演      | 自由討論 | 
 | 午後2(16:00-18:00)   | 講演      | 講演 | 
-| 午後3(18:00-21:00)   | 懇親会      |  解散  | 
+| 午後3(18:00-21:00)   | 懇親会      |  移動、解散  | 
 
 <!--
 [詳細はこちら](https://docs.google.com/spreadsheets/d/1kBZYKw_bWtVQqdN9pmTMhHJfazAP14g4W65m74ikgzA/edit?usp=sharing)
